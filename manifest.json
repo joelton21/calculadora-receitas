@@ -1,0 +1,25 @@
+{
+  "name": "Calculadora Receitas",
+  "short_name": "Calc Receitas",
+  "description": "Calculadora de receitas de pão para padeiros",
+  "start_url": "/calculadora-receitas/",
+  "scope": "/calculadora-receitas/",
+  "display": "standalone",
+  "background_color": "#F7F3EC",
+  "theme_color": "#6B3F1E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
